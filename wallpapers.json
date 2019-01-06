@@ -4,117 +4,140 @@
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Blue%20Coffee.jpg",
-			"name": "Blue Coffee"
+			"name": "Blue Coffee",
+			"descargable": false
 		},
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Mountain.jpg",
-			"name": "Mountain"
+			"name": "Mountain",
+			"descargable": false
 		},
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Mountain%20Portrait.jpg",
-			"name": "Mountain Portrait"
+			"name": "Mountain Portrait",
+			"descargable": false
 		},
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Cashier.jpg",
-			"name": "Cashier"
+			"name": "Cashier",
+			"descargable": false
 		},
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Corn%20Ear%202.jpg",
-			"name": "Corn Ear"
+			"name": "Corn Ear",
+			"descargable": false
 		},
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Dog%20Portrait.jpg",
-			"name": "Dog Portrait"
+			"name": "Dog Portrait",
+			"descargable": false
 		},
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Dog.jpg",
-			"name": "Dog"
+			"name": "Dog",
+			"descargable": false
 		},
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Flower%20Portrait.jpg",
-			"name": "Flower Portrait"
+			"name": "Flower Portrait",
+			"descargable": false
 		},
 		{
 			"author": "Anas Khan",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Flower.jpg",
-			"name": "Flower"
+			"name": "Flower",
+			"descargable": false
 		},
 		{
 			"author": "Daniel Hickman & Jonah Kallen",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Daniel%20Hickman%20%26%20Jonah%20Kallen/Raster/rainbow.png",
-			"name": "Rainbow"
+			"name": "Rainbow",
+			"descargable": false
 		},
 		{
 			"author": "Nils Urbanus",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Nils%20Urbanus/Raster/Saturn-V-Rocket.png",
-			"name": "Saturn V Rocket"
+			"name": "Saturn V Rocket",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(real)-01.png",
-			"name": "Cat Colored"
+			"name": "Cat Colored",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(blue%20grey)-01.png",
-			"name": "Cat Blue Grey"
+			"name": "Cat Blue Grey",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(brown)-01.png",
-			"name": "Cat Brown"
+			"name": "Cat Brown",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(grey)-01.png",
-			"name": "Cat Grey"
+			"name": "Cat Grey",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(teal)-01.png",
-			"name": "Cat Teal"
+			"name": "Cat Teal",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cycle%20(real)-01.png",
-			"name": "Cycle Colored"
+			"name": "Cycle Colored",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cycle%20(blue%20grey)-01.png",
-			"name": "Cycle Blue Grey"
+			"name": "Cycle Blue Grey",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cycle%20(brown)-01.png",
-			"name": "Cycle Brown"
+			"name": "Cycle Brown",
+			"descargable": false
 		},
 		{
 			"author": "Labib Muhammad",
 			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cycle%20(teal)-01.png",
-			"name": "Cycle Teal"
+			"name": "Cycle Teal",
+			"descargable": false
 		},
 		{
 			"author": "Diego Vivar Otero",
 			"url": "https://vivarsoft.es/wallpapers/0.jpg",
-			"name": "Edificio"
+			"name": "Edificio",
+			"descargable": true
 		},
 		{
 			"author": "Diego Vivar Otero",
 			"url": "https://vivarsoft.es/wallpapers/14.jpg",
-			"name": "Anochecer"
+			"name": "Anochecer",
+			"descargable": true
 		},
 		{
 			"author": "Diego Vivar Otero",
 			"url": "https://vivarsoft.es/wallpapers/15.jpg",
-			"name": "Lluvia"
+			"name": "Lluvia",
+			"descargable": true
 		}
 
 	]

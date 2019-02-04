@@ -2,143 +2,94 @@
 "wallpapers": 
 	[
 		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Blue%20Coffee.jpg",
-			"name": "Blue Coffee",
-			"descargable": false
-		},
-		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Mountain.jpg",
-			"name": "Mountain",
-			"descargable": false
-		},
-		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Mountain%20Portrait.jpg",
-			"name": "Mountain Portrait",
-			"descargable": false
-		},
-		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Cashier.jpg",
-			"name": "Cashier",
-			"descargable": false
-		},
-		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Corn%20Ear%202.jpg",
-			"name": "Corn Ear",
-			"descargable": false
-		},
-		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Dog%20Portrait.jpg",
-			"name": "Dog Portrait",
-			"descargable": false
-		},
-		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Dog.jpg",
-			"name": "Dog",
-			"descargable": false
-		},
-		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Flower%20Portrait.jpg",
-			"name": "Flower Portrait",
-			"descargable": false
-		},
-		{
-			"author": "Anas Khan",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Anas%20Khan/Raster/Flower.jpg",
-			"name": "Flower",
-			"descargable": false
-		},
-		{
-			"author": "Daniel Hickman & Jonah Kallen",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Daniel%20Hickman%20%26%20Jonah%20Kallen/Raster/rainbow.png",
-			"name": "Rainbow",
-			"descargable": false
-		},
-		{
-			"author": "Nils Urbanus",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Nils%20Urbanus/Raster/Saturn-V-Rocket.png",
-			"name": "Saturn V Rocket",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(real)-01.png",
-			"name": "Cat Colored",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(blue%20grey)-01.png",
-			"name": "Cat Blue Grey",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(brown)-01.png",
-			"name": "Cat Brown",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(grey)-01.png",
-			"name": "Cat Grey",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cat%20(teal)-01.png",
-			"name": "Cat Teal",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cycle%20(real)-01.png",
-			"name": "Cycle Colored",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cycle%20(blue%20grey)-01.png",
-			"name": "Cycle Blue Grey",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cycle%20(brown)-01.png",
-			"name": "Cycle Brown",
-			"descargable": false
-		},
-		{
-			"author": "Labib Muhammad",
-			"url": "https://raw.githubusercontent.com/materialos/Illustrations/master/Labib%20Muhammad/cycle%20(teal)-01.png",
-			"name": "Cycle Teal",
-			"descargable": false
-		},
-		{
-			"author": "Diego Vivar Otero",
-			"url": "https://vivarsoft.es/wallpapers/0.jpg",
-			"name": "Edificio",
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/black.jpg",
+			"name": "Black",
 			"descargable": true
 		},
 		{
-			"author": "Diego Vivar Otero",
-			"url": "https://vivarsoft.es/wallpapers/14.jpg",
-			"name": "Anochecer",
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/black.png",
+			"name": "Black",
 			"descargable": true
 		},
 		{
-			"author": "Diego Vivar Otero",
-			"url": "https://vivarsoft.es/wallpapers/15.jpg",
-			"name": "Lluvia",
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/blue.jpg",
+			"name": "Blue",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/blue.png",
+			"name": "Blue",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/coral.jpg",
+			"name": "Coral",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/coral.png",
+			"name": "Coral",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/gold.png",
+			"name": "Gold",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/red.png",
+			"name": "Product Red",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/red.jpg",
+			"name": "Product Red",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/silver.png",
+			"name": "Silver",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/spacegrey.png",
+			"name": "Space Grey",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/white.jpg",
+			"name": "White",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/white.png",
+			"name": "White",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/yellow.jpg",
+			"name": "Yellow",
+			"descargable": true
+		},
+		{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/yellow.png",
+			"name": "Yellow",
 			"descargable": true
 		}
-
 	]
 }

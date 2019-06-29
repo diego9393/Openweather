@@ -3,8 +3,50 @@
 	[
 		{
 			"author": "Apple",
-			"url": "https://vivarsoft.es/wallpapers/black.jpg",
-			"name": "Black",
+			"url": "https://vivarsoft.es/wallpapers/ios13-0.png",
+			"name": "Dark-ios13",
+			"descargable": true
+		},
+				{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/ios13-1.png",
+			"name": "Blue-ios13",
+			"descargable": true
+		},
+				{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/ios13-2.png",
+			"name": "Yellow-ios13",
+			"descargable": true
+		},
+				{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/ios13-3.png",
+			"name": "Red-ios13",
+			"descargable": true
+		},
+				{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/ios13-4.png",
+			"name": "WhiteBlue-ios13",
+			"descargable": true
+		},
+				{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/ios13-5.png",
+			"name": "WhiteYellow-ios13",
+			"descargable": true
+		},
+				{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/ios13-6.png",
+			"name": "WhiteRed-ios13",
+			"descargable": true
+		},
+				{
+			"author": "Apple",
+			"url": "https://vivarsoft.es/wallpapers/ios13-7.png",
+			"name": "Black-ios13",
 			"descargable": true
 		},
 		{
